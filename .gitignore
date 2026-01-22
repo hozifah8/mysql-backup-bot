@@ -1,0 +1,4 @@
+*.sql
+.my.cnf
+/backups/
+
